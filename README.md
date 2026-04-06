@@ -23,6 +23,7 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.</h5>
 
 ## 📣 Latest News
+- **[Apr 6, 2026]**: 🔔 Our paper has been accepted to the ACL 2025 Main Conference!
 - **[Feb 24, 2026]**: 🔥 We released our reasoning-intensive reranker **[reasonrank-8B](https://modelscope.cn/models/lwhlwh/reasonrank-8B)** which is trained using backbone LRM Qwen3-8B.
 - **[Sep 22, 2025]**:🔔 The brief introduction of our ReasonRank can be found on platforms like [X](https://x.com/_akhaliq/status/1955262214094340543) and [WeChat](https://mp.weixin.qq.com/s/sutRuHR3HQIY3uJkG_H70A).
 - **[Sep 5, 2025]**: 🔔 Our ReasonRank has been integrated into the [RankLLM framework](https://github.com/castorini/rank_llm). You can use the [codes](https://github.com/castorini/rank_llm/blob/e84b530d7c81cc6c5bc42cb8ca66932ac8c1a276/src/rank_llm/demo/rerank_reasonrank_bm25_beir.py#L4) of RankLLM to run our ReasonRank.
